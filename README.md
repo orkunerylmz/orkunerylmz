@@ -3,6 +3,8 @@
   <p><strong>Data Scientist</strong></p>
   <p>I transform data into meaningful insights and insights into actionable products.</p>
   <p><sub>Bursa Technical University · Data Science and Analytics</sub></p>
+</div>
+
 <hr />
 
 <br />
