@@ -33,24 +33,9 @@
 
   <p><i>Feel free to connect with me for data-driven projects, new ideas, and collaborations.</i></p>
 
-  <a href="mailto:orkunerylmz@gmail.com">
-    <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#FBE6E6;border-radius:14px;padding:10px;margin:4px;">
-      <img src="https://img.icons8.com/color/96/gmail-new.png" width="48" height="48" alt="Email" /><br />
-      <sub><strong>Email</strong></sub>
-    </span>
-  </a>
-  <a href="https://linkedin.com/in/orkunerylmz" target="_blank">
-    <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#E4F0FA;border-radius:14px;padding:10px;margin:4px;">
-      <img src="https://img.icons8.com/color/96/linkedin.png" width="48" height="48" alt="LinkedIn" /><br />
-      <sub><strong>LinkedIn</strong></sub>
-    </span>
-  </a>
-  <a href="https://instagram.com/orkunerylmz" target="_blank">
-    <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#F7E6EC;border-radius:14px;padding:10px;margin:4px;">
-      <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="48" height="48" alt="Instagram" /><br />
-      <sub><strong>Instagram</strong></sub>
-    </span>
-  </a>
+  <a href="mailto:orkunerylmz@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" width="52" height="52" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/orkunerylmz" target="_blank"><img src="https://img.icons8.com/color/96/linkedin.png" width="52" height="52" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/orkunerylmz" target="_blank"><img src="https://img.icons8.com/fluency/96/instagram-new.png" width="52" height="52" alt="Instagram" /></a>
 
 </div>
 
@@ -62,32 +47,41 @@
 
   <h3 align="center">Programming</h3>
   <hr width="28%" />
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#E8F2FA;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br /><sub><strong>Python</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#E3F0F7;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="SQL" /><br /><sub><strong>SQL</strong></sub></span>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="56" height="56" alt="Python" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="56" height="56" alt="SQL" />
+  </p>
 
   <h3 align="center">Data Science & Machine Learning</h3>
   <hr width="28%" />
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#FFF0DC;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" /><br /><sub><strong>scikit-learn</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#EEE8FA;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br /><sub><strong>Pandas</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#E2F3F8;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br /><sub><strong>NumPy</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#F9E3E8;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" /><br /><sub><strong>Matplotlib</strong></sub></span>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="56" height="56" alt="scikit-learn" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="56" height="56" alt="Pandas" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="56" height="56" alt="NumPy" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="56" height="56" alt="Matplotlib" />
+  </p>
 
   <h3 align="center">Frontend & Application Development</h3>
   <hr width="28%" />
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#F0F0F0;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /><br /><sub><strong>Next.js</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#E2F7FB;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br /><sub><strong>React</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#FBE5E5;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" /><br /><sub><strong>Streamlit</strong></sub></span>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="56" height="56" alt="Next.js" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="56" height="56" alt="React" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="56" height="56" alt="Streamlit" />
+  </p>
 
   <h3 align="center">Database, API & DevOps</h3>
   <hr width="28%" />
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#E2F0F8;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br /><sub><strong>PostgreSQL</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#DDECF5;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="MS SQL Server" /><br /><sub><strong>MS SQL Server</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#E3F7EC;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" /><br /><sub><strong>Supabase</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#EDEDED;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" /><br /><sub><strong>Flask</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#E1F6F3;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /><br /><sub><strong>FastAPI</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#E4F1FB;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br /><sub><strong>Docker</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#FCE9E1;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br /><sub><strong>Git</strong></sub></span>
-  <span style="display:inline-block;width:120px;height:88px;box-sizing:border-box;vertical-align:top;text-align:center;background:#EEEEF5;border-radius:14px;padding:10px;margin:4px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="macOS" /><br /><sub><strong>macOS</strong></sub></span>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="56" height="56" alt="PostgreSQL" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="56" height="56" alt="MS SQL Server" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="56" height="56" alt="Supabase" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="56" height="56" alt="Flask" />
+    <br /><br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="56" height="56" alt="FastAPI" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="56" height="56" alt="Docker" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="56" height="56" alt="Git" />&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="56" height="56" alt="macOS" />
+  </p>
 
 </div>
 
