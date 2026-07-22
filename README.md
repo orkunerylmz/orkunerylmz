@@ -90,10 +90,6 @@
 <h2 align="center">GitHub</h2>
 
 <div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 25px; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
-  <p style="color: #c9d1d9; font-weight: bold; font-size: 1.2em; margin-bottom: 20px;">GitHub Contribution Heatmap</p>
-  
-  <img src="https://ghchart.rshah.org/orkunerylmz" alt="Orkun Eryılmaz GitHub contribution heatmap" style="filter: invert(1) hue-rotate(180deg);" />
-  <br /><br />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=orkunerylmz&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f85149&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" width="820" alt="GitHub contribution graph" />
   <br /><br />
