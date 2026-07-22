@@ -89,59 +89,14 @@
 
 <h2 align="center">GitHub</h2>
 
-
-
-<style>
-  /* GitHub Koyu Tema Entegrasyonu */
-  .github-dark-wrapper {
-    background-color: #0d1117; /* GitHub Dark Arka Plan */
-    color: #c9d1d9; /* GitHub Dark Metin */
-    padding: 25px;
-    border-radius: 6px;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
-    border: 1px solid #30363d; /* GitHub Dark Kenarlık */
-  }
-
-  .github-contribution-title {
-    color: #c9d1d9;
-    font-weight: bold;
-    font-size: 1.2em;
-    margin-bottom: 20px;
-  }
-
-  .ghchart-container {
-    /* Isı haritasının arkasındaki beyaz kareyi koyulaştırmak için sarmalayıcı */
-    background-color: #0d1117;
-    border-radius: 6px;
-    padding: 10px;
-    display: inline-block;
-  }
-
-  .ghchart-container img {
-    /* Isı haritasının renklerini tersine çevirerek koyu temaya uydurur */
-    filter: invert(1) hue-rotate(180deg);
-  }
-</style>
-
-<div align="center" class="github-dark-wrapper">
-  <p class="github-contribution-title">GitHub Contribution Heatmap</p>
-
-  <!-- 1. Grafik: Katkı Isı Haritası (ghchart) -->
-  <!-- Karelerin rengini belirlemek için URL'ye '?color=58a6ff' (GitHub Koyu Mavi) eklendi. -->
-  <!-- CSS filtresi ile renkler koyu arka plana göre tersine çevrildi. -->
-  <div class="ghchart-container">
-    <img src="https://ghchart.rshah.org/58a6ff/orkunerylmz" alt="Orkun Eryılmaz GitHub contribution heatmap" />
-  </div>
+<div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 25px; border-radius: 6px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+  <p style="color: #c9d1d9; font-weight: bold; font-size: 1.2em; margin-bottom: 20px;">GitHub Contribution Heatmap</p>
+  
+  <img src="https://ghchart.rshah.org/orkunerylmz" alt="Orkun Eryılmaz GitHub contribution heatmap" style="filter: invert(1) hue-rotate(180deg);" />
   <br /><br />
-
-  <!-- 2. Grafik: Katkı Grafiği (activity-graph) - Koyu Tema Renkleri -->
-  <!-- 'bg_color=0d1117', 'color=c9d1d9', 'line=58a6ff', 'point=f85149' -->
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=orkunerylmz&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=f85149&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" width="820" alt="GitHub contribution graph" />
   <br /><br />
-
-  <!-- 3. Grafik: Mevcut Seri Grafiği (streak-stats) - Koyu Tema Renkleri -->
-  <!-- 'background=0d1117', 'ring=58a6ff', 'fire=f85149', 'currStreakNum=c9d1d9' -->
+  
   <img src="https://streak-stats.demolab.com?user=orkunerylmz&hide_border=true&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=8b949e" alt="GitHub current streak graph" />
 </div>
-
