@@ -87,11 +87,13 @@
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orkunerylmz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=5B6F82&text_color=6B7280&icon_color=8AA6B8" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orkunerylmz&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=5B6F82&text_color=6B7280" height="165" alt="Most used languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=orkunerylmz&hide_border=true&background=FFFFFF00&ring=8AA6B8&fire=D99A9A&currStreakLabel=5B6F82&sideLabels=6B7280&currStreakNum=5B6F82&sideNums=6B7280&dates=9CA3AF" alt="GitHub contribution streak" />
+  <p><strong>GitHub Contribution Heatmap</strong></p>
+  <img src="https://ghchart.rshah.org/8AA6B8/orkunerylmz" alt="Orkun Eryılmaz GitHub contribution heatmap" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orkunerylmz&bg_color=ffffff&color=5B6F82&line=8AA6B8&point=D99A9A&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" width="820" alt="GitHub contribution graph" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=orkunerylmz&hide_border=true&background=FFFFFF00&ring=8AA6B8&fire=D99A9A&currStreakLabel=5B6F82&sideLabels=6B7280&currStreakNum=5B6F82&sideNums=6B7280&dates=9CA3AF" alt="GitHub current streak graph" />
 </div>
