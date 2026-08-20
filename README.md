@@ -123,14 +123,6 @@
 
 ---
 
-<h2 align="center">Isometric Commit Calendar</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/orkunerylmz/orkunerylmz/main/metrics-isocalendar.svg" alt="Isometric Commit Calendar" />
-</div>
-
----
-
 <h2 align="center">Contribution Snake</h2>
 
 <div align="center">
