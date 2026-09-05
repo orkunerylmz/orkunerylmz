@@ -38,12 +38,28 @@
 
 <br />
 
-<table>
+<div align="center">
+
+<table align="center" width="88%">
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<br />
 
 <div align="center">
+
+<a href="https://github.com/orkunerylmz/Kampusfer">
+  <img
+    src="assets/projects/kampusfer.png"
+    alt="Kampusfer Logo"
+    width="90"
+    height="90"
+  />
+</a>
+
+<br /><br />
 
 ### [Kampusfer](https://github.com/orkunerylmz/Kampusfer)
 
@@ -80,9 +96,22 @@ authentication, filtering, and real-time interactions.
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<br />
 
 <div align="center">
+
+<a href="https://github.com/orkunerylmz/StatReg">
+  <img
+    src="assets/projects/statreg.png"
+    alt="StatReg Logo"
+    width="90"
+    height="90"
+  />
+</a>
+
+<br /><br />
 
 ### [StatReg](https://github.com/orkunerylmz/StatReg)
 
@@ -123,9 +152,22 @@ and accessible analytical workflows.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<br />
 
 <div align="center">
+
+<a href="https://github.com/orkunerylmz/Grafiker">
+  <img
+    src="assets/projects/grafiker.png"
+    alt="Grafiker Logo"
+    width="90"
+    height="90"
+  />
+</a>
+
+<br /><br />
 
 ### [Grafiker](https://github.com/orkunerylmz/Grafiker)
 
@@ -162,9 +204,22 @@ for faster exploration and understanding.
 </td>
 
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<br />
 
 <div align="center">
+
+<a href="https://github.com/orkunerylmz/Target">
+  <img
+    src="assets/projects/target.png"
+    alt="Target Logo"
+    width="90"
+    height="90"
+  />
+</a>
+
+<br /><br />
 
 ### [Target](https://github.com/orkunerylmz/Target)
 
@@ -201,7 +256,10 @@ and interactive scenario simulations.
 </td>
 
 </tr>
+
 </table>
+
+</div>
 
 <br />
 
