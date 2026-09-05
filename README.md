@@ -23,7 +23,151 @@
   From data cleaning and exploration to model development, API design, and presenting results through user-friendly interfaces, I take part in the end-to-end development process. My goal is to build technically robust, understandable, and real-world applicable solutions.
 </p>
 
+<br />
 
+<hr />
+
+<br />
+
+<div align="center">
+  <h2>Selected Work</h2>
+  <p><sub>Projects that reflect how I approach data, analysis, and product development.</sub></p>
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### [Kampusfer](https://github.com/orkunerylmz/Kampusfer)
+
+<sub>Campus Marketplace</sub>
+
+</div>
+
+<br />
+
+A campus-focused second-hand marketplace built around university email verification, bringing authentication, listings, filtering, and real-time interactions into a complete web product.
+
+<br />
+
+<div align="center">
+  <code>Next.js</code>
+  <code>React</code>
+  <code>Supabase</code>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/orkunerylmz/Kampusfer"><sub>View Repository →</sub></a>
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### [StatReg](https://github.com/orkunerylmz/StatReg)
+
+<sub>Statistical Analysis</sub>
+
+</div>
+
+<br />
+
+A desktop application for regression analysis, model comparison, and statistical exploration, designed to make analytical workflows more accessible and interactive.
+
+<br />
+
+<div align="center">
+  <code>Python</code>
+  <code>PyQt6</code>
+  <code>Regression</code>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/orkunerylmz/StatReg"><sub>View Repository →</sub></a>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### [Grafiker](https://github.com/orkunerylmz/Grafiker)
+
+<sub>Data Visualization</sub>
+
+</div>
+
+<br />
+
+An interactive desktop application focused on transforming datasets into clear, interpretable visualizations for faster exploration and understanding.
+
+<br />
+
+<div align="center">
+  <code>Python</code>
+  <code>Visualization</code>
+  <code>Desktop</code>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/orkunerylmz/Grafiker"><sub>View Repository →</sub></a>
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### [Target](https://github.com/orkunerylmz/Target)
+
+<sub>Financial Data Product</sub>
+
+</div>
+
+<br />
+
+A native desktop application for financial goal tracking and savings planning, combining quantitative progress analysis, simulations, and interactive insights.
+
+<br />
+
+<div align="center">
+  <code>React</code>
+  <code>TypeScript</code>
+  <code>Tauri</code>
+  <code>Rust</code>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/orkunerylmz/Target"><sub>View Repository →</sub></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<p align="center">
+  <sub>Turning analytical ideas into clear, usable products.</sub>
+</p>
 
 ---
 
