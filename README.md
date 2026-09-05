@@ -31,13 +31,16 @@
 
 <div align="center">
   <h2>Selected Work</h2>
-  <p><sub>Projects that reflect how I approach data, analysis, and product development.</sub></p>
+  <p>
+    <sub>Projects that reflect how I approach data, analysis, and product development.</sub>
+  </p>
 </div>
 
 <br />
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -50,7 +53,11 @@
 
 <br />
 
-A campus-focused second-hand marketplace built around university email verification, bringing authentication, listings, filtering, and real-time interactions into a complete web product.
+<p align="center">
+A campus-focused marketplace designed for<br />
+verified university students, combining listings,<br />
+authentication, filtering, and real-time interactions.
+</p>
 
 <br />
 
@@ -60,13 +67,18 @@ A campus-focused second-hand marketplace built around university email verificat
   <code>Supabase</code>
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
-  <a href="https://github.com/orkunerylmz/Kampusfer"><sub>View Repository →</sub></a>
+  <a href="https://github.com/orkunerylmz/Kampusfer">
+    <sub>View Repository →</sub>
+  </a>
 </div>
 
+<br />
+
 </td>
+
 
 <td width="50%" valign="top">
 
@@ -80,7 +92,11 @@ A campus-focused second-hand marketplace built around university email verificat
 
 <br />
 
-A desktop application for regression analysis, model comparison, and statistical exploration, designed to make analytical workflows more accessible and interactive.
+<p align="center">
+A desktop application designed for regression<br />
+analysis, statistical exploration, model comparison,<br />
+and accessible analytical workflows.
+</p>
 
 <br />
 
@@ -90,16 +106,23 @@ A desktop application for regression analysis, model comparison, and statistical
   <code>Regression</code>
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
-  <a href="https://github.com/orkunerylmz/StatReg"><sub>View Repository →</sub></a>
+  <a href="https://github.com/orkunerylmz/StatReg">
+    <sub>View Repository →</sub>
+  </a>
 </div>
 
+<br />
+
 </td>
+
 </tr>
 
+
 <tr>
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -112,7 +135,11 @@ A desktop application for regression analysis, model comparison, and statistical
 
 <br />
 
-An interactive desktop application focused on transforming datasets into clear, interpretable visualizations for faster exploration and understanding.
+<p align="center">
+A desktop application designed to transform<br />
+datasets into clear, interpretable visualizations<br />
+for faster exploration and understanding.
+</p>
 
 <br />
 
@@ -122,13 +149,18 @@ An interactive desktop application focused on transforming datasets into clear, 
   <code>Desktop</code>
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
-  <a href="https://github.com/orkunerylmz/Grafiker"><sub>View Repository →</sub></a>
+  <a href="https://github.com/orkunerylmz/Grafiker">
+    <sub>View Repository →</sub>
+  </a>
 </div>
 
+<br />
+
 </td>
+
 
 <td width="50%" valign="top">
 
@@ -142,24 +174,32 @@ An interactive desktop application focused on transforming datasets into clear, 
 
 <br />
 
-A native desktop application for financial goal tracking and savings planning, combining quantitative progress analysis, simulations, and interactive insights.
+<p align="center">
+A native desktop application designed for financial<br />
+goal tracking, savings planning, progress analysis,<br />
+and interactive scenario simulations.
+</p>
 
 <br />
 
 <div align="center">
   <code>React</code>
-  <code>TypeScript</code>
   <code>Tauri</code>
   <code>Rust</code>
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
-  <a href="https://github.com/orkunerylmz/Target"><sub>View Repository →</sub></a>
+  <a href="https://github.com/orkunerylmz/Target">
+    <sub>View Repository →</sub>
+  </a>
 </div>
 
+<br />
+
 </td>
+
 </tr>
 </table>
 
@@ -168,7 +208,6 @@ A native desktop application for financial goal tracking and savings planning, c
 <p align="center">
   <sub>Turning analytical ideas into clear, usable products.</sub>
 </p>
-
 ---
 
 <h2 align="center">Contact</h2>
@@ -267,6 +306,7 @@ A native desktop application for financial goal tracking and savings planning, c
 
 ---
 
+<h2 align="center">Contribution Snake</h2>
 
 <div align="center">
 
