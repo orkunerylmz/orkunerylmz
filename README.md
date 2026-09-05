@@ -266,6 +266,7 @@ and interactive scenario simulations.
 <p align="center">
   <sub>Turning analytical ideas into clear, usable products.</sub>
 </p>
+
 ---
 
 <h2 align="center">Contact</h2>
