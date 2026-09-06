@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<table align="center" width="88%">
+<table align="center" width="100%">
 
 <tr>
 
