@@ -122,7 +122,7 @@ authentication, filtering, and real-time interactions.
 <br />
 
 <p align="center">
-A desktop application designed for regression<br />
+Application designed for regression<br />
 analysis, statistical exploration, model comparison,<br />
 and accessible analytical workflows.
 </p>
