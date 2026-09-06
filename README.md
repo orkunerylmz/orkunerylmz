@@ -122,9 +122,10 @@ authentication, filtering, and real-time interactions.
 <br />
 
 <p align="center">
-A desktop pplication designed for regression<br />
-analysis, statistical exploration, model comparison<br />
-and accessible analytical workflows.
+A powerful desktop application designed for advanced regression<br />
+analysis, deep statistical exploration, seamless model comparison,<br />
+and efficient, highly accessible analytical workflows for everyone.<br />
+Empowering your data-driven decisions with precision and ease.
 </p>
 
 <br />
