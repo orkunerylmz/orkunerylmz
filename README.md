@@ -44,7 +44,7 @@
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="70%" align="center" valign="top">
 
 <br />
 
@@ -96,7 +96,7 @@ authentication, filtering, and real-time interactions.
 </td>
 
 
-<td width="50%" align="center" valign="top">
+<td width="70%" align="center" valign="top">
 
 <br />
 
@@ -152,7 +152,7 @@ accessible analytical workflows.
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="70%" align="center" valign="top">
 
 <br />
 
@@ -204,7 +204,7 @@ for faster exploration and understanding.
 </td>
 
 
-<td width="50%" align="center" valign="top">
+<td width="70%" align="center" valign="top">
 
 <br />
 
