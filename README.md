@@ -44,7 +44,7 @@
 
 <tr>
 
-<td width="70%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <br />
 
@@ -96,7 +96,7 @@ authentication, filtering, and real-time interactions.
 </td>
 
 
-<td width="70%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <br />
 
@@ -122,9 +122,9 @@ authentication, filtering, and real-time interactions.
 <br />
 
 <p align="center">
-A desktop pplication designed for regression analysis,<br />
-statistical exploration, model comparison and<br />
-accessible analytical workflows.
+A desktop pplication designed for regression<br />
+analysis, statistical exploration, model comparison<br />
+and accessible analytical workflows.
 </p>
 
 <br />
@@ -152,7 +152,7 @@ accessible analytical workflows.
 
 <tr>
 
-<td width="70%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <br />
 
@@ -204,7 +204,7 @@ for faster exploration and understanding.
 </td>
 
 
-<td width="70%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <br />
 
