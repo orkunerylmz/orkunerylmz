@@ -8,17 +8,6 @@
 
   <br />
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+%C2%B7+Machine+Learning+%C2%B7+Analytics;From+raw+data+to+meaningful+insights.;Building+analytical+ideas+into+real+products."
-    alt="Typing Animation"
-  />
-
-  <br /><br />
-
-  <a href="https://github.com/orkunerylmz">
-    <img src="https://komarev.com/ghpvc/?username=orkunerylmz&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
-
 </div>
 
 <br />
