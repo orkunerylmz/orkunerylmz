@@ -30,9 +30,9 @@
 <br />
 
 <div align="center">
-  <h2>Selected Work</h2>
+  <h2>Featured Projects</h2>
   <p>
-    <sub>Projects that reflect how I approach data, analysis, and product development.</sub>
+    <sub>A selection of projects showcasing my approach to data science, analytical problem-solving, and product development.</sub>
   </p>
 </div>
 
