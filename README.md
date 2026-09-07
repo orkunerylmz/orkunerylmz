@@ -6,8 +6,6 @@
     alt="Header"
   />
 
-  <br />
-
 </div>
 
 <br />
