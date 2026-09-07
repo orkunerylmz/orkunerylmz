@@ -8,8 +8,6 @@
 
 </div>
 
-<br />
-
 <div align="center">
   <h1>Hello, I'm Orkun.</h1>
   <p><strong>Data Scientist</strong></p>
