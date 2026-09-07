@@ -1,8 +1,24 @@
 <div align="center">
+
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+%C2%B7+Machine+Learning+%C2%B7+Analytics;Turning+data+into+meaningful+products."
-    alt="Typing SVG"
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Orkun%20Ery%C4%B1lmaz&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Data%20Scientist%20%C2%B7%20Building%20with%20Data&descSize=16&descAlignY=56"
+    alt="Header"
   />
+
+  <br />
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+%C2%B7+Machine+Learning+%C2%B7+Analytics;From+raw+data+to+meaningful+insights.;Building+analytical+ideas+into+real+products."
+    alt="Typing Animation"
+  />
+
+  <br /><br />
+
+  <a href="https://github.com/orkunerylmz">
+    <img src="https://komarev.com/ghpvc/?username=orkunerylmz&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </a>
+
 </div>
 
 <br />
