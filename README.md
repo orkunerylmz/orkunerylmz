@@ -1,4 +1,13 @@
 <div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+%C2%B7+Machine+Learning+%C2%B7+Analytics;Turning+data+into+meaningful+products."
+    alt="Typing SVG"
+  />
+</div>
+
+<br />
+
+<div align="center">
   <h1>Hello, I'm Orkun.</h1>
   <p><strong>Data Scientist</strong></p>
   <p>I transform data into meaningful insights and insights into actionable products.</p>
