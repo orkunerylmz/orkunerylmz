@@ -389,12 +389,11 @@ and interactive scenario simulations.
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orkunerylmz/orkunerylmz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orkunerylmz/orkunerylmz/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/orkunerylmz/orkunerylmz/output/github-snake-dark.svg" />
-  </picture>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orkunerylmz/orkunerylmz/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orkunerylmz/orkunerylmz/output/github-snake.svg?v=2" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/orkunerylmz/orkunerylmz/output/github-snake-dark.svg?v=2" />
+</picture>
 </div>
 
 
