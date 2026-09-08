@@ -32,7 +32,7 @@ jobs:
 
           svg = re.sub(
               r'<rect([^>]*?)>',
-              lambda m: '<rect' + m.group(1) + ' rx="5" ry="5">',
+              lambda m: '<rect' + m.group(1) + ' rx="15" ry="15">',
               svg,
               count=1
           )
