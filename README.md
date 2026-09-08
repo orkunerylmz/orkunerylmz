@@ -31,11 +31,7 @@
   From data cleaning and exploration to model development, API design, and presenting results through user-friendly interfaces, I take part in the end-to-end development process. My goal is to build technically robust, understandable, and real-world applicable solutions.
 </p>
 
-<br />
-
 <hr />
-
-<br />
 
 <div align="center">
   <h2>Featured Projects</h2>
