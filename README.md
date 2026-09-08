@@ -359,27 +359,24 @@ and interactive scenario simulations.
   <br />
   <br />
 
-  <a href="https://github.com/orkunerylmz">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/orkunerylmz">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Top Languages" />
-  </a>
+<a href="https://github.com/orkunerylmz">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/orkunerylmz">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Top Languages" />
+</a>
 
-  <br />
-  <br />
+<br />
+<br />
 
-  <a href="https://github.com/orkunerylmz">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Most Commit Language" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/orkunerylmz">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3&utcOffset=0" alt="Productive Time" />
-  </a>
-
-  <br />
-  <br />
+<a href="https://github.com/orkunerylmz">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Most Commit Language" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/orkunerylmz">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3&utcOffset=0" alt="Productive Time" />
+</a>
 
 </div>
 
