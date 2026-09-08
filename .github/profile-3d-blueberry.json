@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-blueberry.svg",
+  "backgroundColor": "#242938",
+  "foregroundColor": "#E4E2E2",
+  "strongColor": "#89DDFF",
+  "weakColor": "#82AAFF",
+  "radarColor": "#27E8A7",
+  "growingAnimation": true,
+  "contribColors": [
+    "#343A4F",
+    "#405A87",
+    "#527CC7",
+    "#82AAFF",
+    "#89DDFF"
+  ]
+}
