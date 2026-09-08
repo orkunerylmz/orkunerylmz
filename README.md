@@ -1,7 +1,7 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:090D16,50:0F172A,100:1E3A8A&text=Orkun%20Ery%C4%B1lmaz&section=header&textBg=false&fontAlign=50&animation=fadeIn&desc=Data%20Scientist%20%C2%B7%20Building%20with%20Data&descSize=16&descAlignY=65&fontColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=rounded&height=240&color=0:090D16,50:0F172A,100:1E3A8A&text=Orkun%20Ery%C4%B1lmaz&section=header&textBg=false&fontAlign=50&animation=fadeIn&desc=Data%20Scientist%20%C2%B7%20Building%20with%20Data&descSize=16&descAlignY=70&fontColor=FFFFFF"
     alt="Orkun Eryılmaz - Header"
   />
 </div>
