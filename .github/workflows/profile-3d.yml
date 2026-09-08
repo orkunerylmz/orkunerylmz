@@ -21,6 +21,25 @@ jobs:
           USERNAME: orkunerylmz
           SETTING_JSON: .github/profile-3d-blueberry.json
 
+      - name: Add rounded corners
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("profile-3d-contrib/profile-blueberry.svg")
+          svg = path.read_text()
+
+          svg = re.sub(
+              r'<rect([^>]*?)>',
+              lambda m: '<rect' + m.group(1) + ' rx="5" ry="5">',
+              svg,
+              count=1
+          )
+
+          path.write_text(svg)
+          PY
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
