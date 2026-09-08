@@ -339,13 +339,13 @@ and interactive scenario simulations.
 <div align="center">
 
   <a href="https://git.io/streak-stats">
-    <img width="80%" src="https://streak-stats.demolab.com?user=orkunerylmz&theme=blueberry&hide_border=true&border_radius=10&card_height=100" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=orkunerylmz&theme=blueberry&hide_border=true&border_radius=10&card_width=430&card_height=140" alt="GitHub Streak" />
   </a>
 
   <br /><br />
   
   <a href="https://github.com/orkunerylmz">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" width="%80" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Profile Details" />
   </a>
 
   <br /><br />
