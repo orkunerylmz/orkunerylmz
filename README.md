@@ -1,14 +1,4 @@
 <div align="center">
-
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Orkun%20Ery%C4%B1lmaz&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Data%20Scientist%20%C2%B7%20Building%20with%20Data&descSize=16&descAlignY=56"
-    alt="Header"
-  />
-
-</div>
-
-<div align="center">
   <h1>Hello, I'm Orkun.</h1>
   <p><strong>Data Scientist</strong></p>
   <p>I transform data into meaningful insights and insights into actionable products.</p>
