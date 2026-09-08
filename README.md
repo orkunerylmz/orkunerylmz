@@ -345,7 +345,7 @@ and interactive scenario simulations.
   <br /><br />
   
   <a href="https://github.com/orkunerylmz">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" width="%80" alt="Profile Details" />
   </a>
 
   <br /><br />
