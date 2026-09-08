@@ -345,7 +345,7 @@ and interactive scenario simulations.
   <br /><br />
 
   <a href="https://git.io/streak-stats">
-    <img width="100%" src="https://streak-stats.demolab.com?user=orkunerylmz&theme=blueberry&hide_border=true&border_radius=20&card_height=240" alt="GitHub Streak" />
+    <img width="100%" src="https://streak-stats.demolab.com?user=orkunerylmz&theme=blueberry&hide_border=true&border_radius=10&card_height=100" alt="GitHub Streak" />
   </a>
 
   <br /><br />
