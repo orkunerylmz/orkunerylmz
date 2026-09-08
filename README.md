@@ -344,6 +344,12 @@ and interactive scenario simulations.
 
   <br /><br />
 
+  <a href="https://git.io/streak-stats">
+    <img width="100%" src="https://streak-stats.demolab.com?user=orkunerylmz&theme=blueberry&hide_border=true&border_radius=20&card_height=240" alt="GitHub Streak" />
+  </a>
+
+  <br /><br />
+
   <a href="https://github.com/orkunerylmz">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="GitHub Stats" />
   </a>
@@ -360,36 +366,6 @@ and interactive scenario simulations.
   &nbsp;&nbsp;
   <a href="https://github.com/orkunerylmz">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3&utcOffset=0" alt="Productive Time" />
-  </a>
-
-  <br /><br />
-
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/orkunerylmz">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Profile Details" style="border-radius: 12px;" />
-  </a>
-
-  <br /><br />
-
-  <a href="https://github.com/orkunerylmz">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="GitHub Stats" style="border-radius: 12px;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/orkunerylmz">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Top Languages" style="border-radius: 12px;" />
-  </a>
-
-  <br /><br />
-
-  <a href="https://github.com/orkunerylmz">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Most Commit Language" style="border-radius: 12px;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/orkunerylmz">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3&utcOffset=0" alt="Productive Time" style="border-radius: 12px;" />
   </a>
 
   <br /><br />
