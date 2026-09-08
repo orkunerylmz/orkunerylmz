@@ -366,7 +366,35 @@ and interactive scenario simulations.
 
 </div>
 
+<div align="center">
 
+  <a href="https://github.com/orkunerylmz">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Profile Details" style="border-radius: 12px;" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/orkunerylmz">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="GitHub Stats" style="border-radius: 12px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/orkunerylmz">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Top Languages" style="border-radius: 12px;" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/orkunerylmz">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3" alt="Most Commit Language" style="border-radius: 12px;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/orkunerylmz">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=orkunerylmz&theme=blueberry&animation=sequence&duration=3&utcOffset=0" alt="Productive Time" style="border-radius: 12px;" />
+  </a>
+
+  <br /><br />
+
+</div>
 
 ---
 
